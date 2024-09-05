@@ -1,4 +1,7 @@
 
+<br>
+<br>
+
 # 1. `Pipeline in both sk-learn and tensorflow:` 
 
 ### **Scikit-learn Pipeline (Short Description):**
@@ -90,5 +93,7 @@ While Scikit-learn pipelines are sufficient for smaller datasets and simpler pre
 - On-the-fly data augmentation and transformation.
 - Optimized performance with shuffling, batching, and parallel data loading.
 
+<br>
+<br>
 
 
