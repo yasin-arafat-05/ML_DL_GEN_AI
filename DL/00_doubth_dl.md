@@ -1,4 +1,6 @@
 
+# 1. Pipeline in both sk-learn and tensorflow: 
+
 ### **Scikit-learn Pipeline (Short Description):**
 In Scikit-learn, a `Pipeline` is a tool that chains together multiple steps of data preprocessing and model training into a single workflow. It ensures that the same transformations (like scaling, encoding) applied to training data are also applied to test data or new data during inference.
 
