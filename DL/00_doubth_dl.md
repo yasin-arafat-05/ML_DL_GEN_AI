@@ -47,6 +47,10 @@ dataset = dataset.shuffle(1024).batch(32).prefetch(tf.data.experimental.AUTOTUNE
 ### **Why Scikit-learn Pipeline Works in TensorFlow:**
 Scikit-learn’s pipeline can work with TensorFlow models because it simply preprocesses the data and passes it to any model (including TensorFlow models). However, Scikit-learn pipelines are limited in handling large datasets or complex data transformations, which is where TensorFlow’s input pipeline is more powerful. TensorFlow's pipeline is built for efficiently handling deep learning tasks, large datasets, and real-time transformations. 
 
+<br> 
+<br>
+<br>
+
 # 2. `Sk-learn pipeline give us data in numpy array() in tensorflow pipeline give us data in tfdata . Is this both are same?  If they are not same then why it work when we train a model with sk-learn pipeline in tensorflow`
 
 No, **Scikit-learn Pipelines** and **TensorFlow Input Pipelines** are not the same, but they can still work together due to TensorFlow's flexibility in handling different data formats.
