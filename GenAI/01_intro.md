@@ -1,4 +1,7 @@
 
+<br>
+<br>
+
 
 # `1. We can implement or fine tuning cnn model with tensorflow. we can implement transformer with tensorflow then why we need framework like langchan or hugging face to work with llm can't we do this with tensorflow?`
 
@@ -34,3 +37,10 @@ Yes, you can implement and fine-tune models like transformers or LLMs (Large Lan
    - LangChain offers integration for LLMs with other systems (like databases, APIs, search engines) in a plug-and-play manner, making it easier to create complex, multi-step applications without extensive boilerplate code.
 
 In summary, while you can build and fine-tune transformer models using TensorFlow, frameworks like Hugging Face and LangChain offer **ease of use, specialized tools, and pre-trained models**, making them more convenient for many LLM use cases. They simplify the process of training, deploying, and integrating LLMs into larger applications.
+
+
+
+<br>
+<br>
+
+
